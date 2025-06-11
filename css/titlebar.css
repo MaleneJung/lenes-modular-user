@@ -1,0 +1,8 @@
+
+#titlebar {
+    margin: 0;
+    padding: 0.25rem 2rem;
+    background-color: #0008;
+    color: #39F;
+    border-bottom: #0008 1px solid;
+}
